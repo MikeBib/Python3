@@ -1,4 +1,4 @@
-# Simply Customer Receipt 
+Simply Customer Receipt 
 
 #This is simple coding for a customer receipt which includes the description of each peice purchased, and the total cost with tax. 
 
