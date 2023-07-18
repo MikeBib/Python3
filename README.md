@@ -1,4 +1,6 @@
-# Python3 Project - This is simple coding for a customer receipt which includes the description of each peice purchased, and the total cost with tax. 
+# Simply Customer Receipt 
+
+#This is simple coding for a customer receipt which includes the description of each peice purchased, and the total cost with tax. 
 
 #Catalog Items
 lovely_loveseat_description = "Loveley Loveseat. Tufted polyester blend on wood. 32 inches high and 40 inches wide x 30 inches deep. Red or white."
